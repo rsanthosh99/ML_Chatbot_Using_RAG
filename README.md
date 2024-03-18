@@ -14,7 +14,7 @@ Technologies Used
 
     Python
     Streamlit
-    Transformers
+    Llama
     LangChain
     FAISS
 
